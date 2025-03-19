@@ -1,0 +1,546 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.xeyth\\BCL\\src\\BCL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\utils\\ansicolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\utils\\ansicolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AF93D1-9600-4D9B-A839-A96D42EDFB80}|BCL.Core\\BCL.Core.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.core\\services\\rankingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AF93D1-9600-4D9B-A839-A96D42EDFB80}|BCL.Core\\BCL.Core.csproj|solutionrelative:bcl.core\\services\\rankingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\components\\dashboards\\queuetracker.restrictionsfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\components\\dashboards\\queuetracker.restrictionsfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\components\\dashboards\\queuetracker.leaguesfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\components\\dashboards\\queuetracker.leaguesfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8FCCB1-17D1-4D44-B3CE-A48C1E294423}|BCL.Persistence.Sqlite\\BCL.Persistence.Sqlite.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.persistence.sqlite\\bcldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8FCCB1-17D1-4D44-B3CE-A48C1E294423}|BCL.Persistence.Sqlite\\BCL.Persistence.Sqlite.csproj|solutionrelative:bcl.persistence.sqlite\\bcldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8FCCB1-17D1-4D44-B3CE-A48C1E294423}|BCL.Persistence.Sqlite\\BCL.Persistence.Sqlite.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.persistence.sqlite\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8FCCB1-17D1-4D44-B3CE-A48C1E294423}|BCL.Persistence.Sqlite\\BCL.Persistence.Sqlite.csproj|solutionrelative:bcl.persistence.sqlite\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\commands\\slashcommands\\admin\\admincommands.utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\commands\\slashcommands\\admin\\admincommands.utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\commands\\slashcommands\\users\\usercommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\commands\\slashcommands\\users\\usercommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB4E69D-A90C-46D4-8B4B-7D14EA31B02B}|BCL.Domain\\BCL.Domain.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.domain\\entities\\matches\\match.utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB4E69D-A90C-46D4-8B4B-7D14EA31B02B}|BCL.Domain\\BCL.Domain.csproj|solutionrelative:bcl.domain\\entities\\matches\\match.utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AF93D1-9600-4D9B-A839-A96D42EDFB80}|BCL.Core\\BCL.Core.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.core\\services\\matchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AF93D1-9600-4D9B-A839-A96D42EDFB80}|BCL.Core\\BCL.Core.csproj|solutionrelative:bcl.core\\services\\matchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\components\\draft\\discordmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\components\\draft\\discordmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\commands\\slashcommands\\admin\\admincommands.dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\commands\\slashcommands\\admin\\admincommands.dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\bot\\discordengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\bot\\discordengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\commands\\buttoncommands\\queuetrackerbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\commands\\buttoncommands\\queuetrackerbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\components\\dashboards\\queuetracker.buttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\components\\dashboards\\queuetracker.buttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\components\\dashboards\\queuetracker.utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\components\\dashboards\\queuetracker.utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\components\\dashboards\\queuetracker.membersfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\components\\dashboards\\queuetracker.membersfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\commands\\slashcommands\\admin\\admincommands.dev.migrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\commands\\slashcommands\\admin\\admincommands.dev.migrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\commands\\slashcommands\\admin\\admincommands.staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\commands\\slashcommands\\admin\\admincommands.staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AF93D1-9600-4D9B-A839-A96D42EDFB80}|BCL.Core\\BCL.Core.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.core\\services\\matchmakingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AF93D1-9600-4D9B-A839-A96D42EDFB80}|BCL.Core\\BCL.Core.csproj|solutionrelative:bcl.core\\services\\matchmakingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\commands\\slashcommands\\queuecommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\commands\\slashcommands\\queuecommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\commands\\buttoncommands\\usersettingsbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\commands\\buttoncommands\\usersettingsbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AF93D1-9600-4D9B-A839-A96D42EDFB80}|BCL.Core\\BCL.Core.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.core\\services\\queue\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AF93D1-9600-4D9B-A839-A96D42EDFB80}|BCL.Core\\BCL.Core.csproj|solutionrelative:bcl.core\\services\\queue\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB4E69D-A90C-46D4-8B4B-7D14EA31B02B}|BCL.Domain\\BCL.Domain.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.domain\\dtos\\queuedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB4E69D-A90C-46D4-8B4B-7D14EA31B02B}|BCL.Domain\\BCL.Domain.csproj|solutionrelative:bcl.domain\\dtos\\queuedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\discordconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\discordconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\bot\\discordengine.startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\bot\\discordengine.startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\components\\dashboards\\queuetracker.matchesfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\components\\dashboards\\queuetracker.matchesfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\components\\dashboards\\queuetracker.queuetrackermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\components\\dashboards\\queuetracker.queuetrackermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\utils\\ansiutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\utils\\ansiutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\commands\\slashcommands\\admin\\admincommands.membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\commands\\slashcommands\\admin\\admincommands.membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\commands\\modalcommands\\usermodals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\commands\\modalcommands\\usermodals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|d:\\.xeyth\\bcl\\src\\bcl\\bcl.discord\\commands\\buttoncommands\\adminbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D5543-834C-41E6-8C5F-9B983A06E55A}|BCL.Discord\\BCL.Discord.csproj|solutionrelative:bcl.discord\\commands\\buttoncommands\\adminbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 285,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Match.Utilities.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Domain\\Entities\\Matches\\Match.Utilities.cs",
+              "RelativeDocumentMoniker": "BCL.Domain\\Entities\\Matches\\Match.Utilities.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Domain\\Entities\\Matches\\Match.Utilities.cs",
+              "RelativeToolTip": "BCL.Domain\\Entities\\Matches\\Match.Utilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T20:08:50.793Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MatchService.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Core\\Services\\MatchService.cs",
+              "RelativeDocumentMoniker": "BCL.Core\\Services\\MatchService.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Core\\Services\\MatchService.cs",
+              "RelativeToolTip": "BCL.Core\\Services\\MatchService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAIAwwEEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T20:06:22.319Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RankingService.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Core\\Services\\RankingService.cs",
+              "RelativeDocumentMoniker": "BCL.Core\\Services\\RankingService.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Core\\Services\\RankingService.cs",
+              "RelativeToolTip": "BCL.Core\\Services\\RankingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T20:06:38.575Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MatchmakingService.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Core\\Services\\MatchmakingService.cs",
+              "RelativeDocumentMoniker": "BCL.Core\\Services\\MatchmakingService.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Core\\Services\\MatchmakingService.cs",
+              "RelativeToolTip": "BCL.Core\\Services\\MatchmakingService.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAADwv4wAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T20:11:52.06Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnsiColors.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Utils\\AnsiColors.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\Utils\\AnsiColors.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Utils\\AnsiColors.cs",
+              "RelativeToolTip": "BCL.Discord\\Utils\\AnsiColors.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:33:08.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ba58fdf3-7af7-4b60-b69b-40ac68d83b75}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BclDbContext.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Persistence.Sqlite\\BclDbContext.cs",
+              "RelativeDocumentMoniker": "BCL.Persistence.Sqlite\\BclDbContext.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Persistence.Sqlite\\BclDbContext.cs",
+              "RelativeToolTip": "BCL.Persistence.Sqlite\\BclDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T01:07:41.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Persistence.Sqlite\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BCL.Persistence.Sqlite\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Persistence.Sqlite\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "BCL.Persistence.Sqlite\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACEAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:55:56.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserCommands.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Commands\\SlashCommands\\Users\\UserCommands.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\Commands\\SlashCommands\\Users\\UserCommands.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Commands\\SlashCommands\\Users\\UserCommands.cs",
+              "RelativeToolTip": "BCL.Discord\\Commands\\SlashCommands\\Users\\UserCommands.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:54:02.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DiscordMatch.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Components\\Draft\\DiscordMatch.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\Components\\Draft\\DiscordMatch.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Components\\Draft\\DiscordMatch.cs",
+              "RelativeToolTip": "BCL.Discord\\Components\\Draft\\DiscordMatch.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAE8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:09:24.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QueueTracker.Utils.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Components\\Dashboards\\QueueTracker.Utils.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\Components\\Dashboards\\QueueTracker.Utils.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Components\\Dashboards\\QueueTracker.Utils.cs",
+              "RelativeToolTip": "BCL.Discord\\Components\\Dashboards\\QueueTracker.Utils.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T23:28:55.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminCommands.Dev.Migrate.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Commands\\SlashCommands\\Admin\\AdminCommands.Dev.Migrate.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\Commands\\SlashCommands\\Admin\\AdminCommands.Dev.Migrate.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Commands\\SlashCommands\\Admin\\AdminCommands.Dev.Migrate.cs",
+              "RelativeToolTip": "BCL.Discord\\Commands\\SlashCommands\\Admin\\AdminCommands.Dev.Migrate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALICAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T21:52:53.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserSettingsButtons.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Commands\\ButtonCommands\\UserSettingsButtons.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\Commands\\ButtonCommands\\UserSettingsButtons.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Commands\\ButtonCommands\\UserSettingsButtons.cs",
+              "RelativeToolTip": "BCL.Discord\\Commands\\ButtonCommands\\UserSettingsButtons.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAAKcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T19:40:52.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "QueueDtos.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Domain\\Dtos\\QueueDtos.cs",
+              "RelativeDocumentMoniker": "BCL.Domain\\Dtos\\QueueDtos.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Domain\\Dtos\\QueueDtos.cs",
+              "RelativeToolTip": "BCL.Domain\\Dtos\\QueueDtos.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvycAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T19:16:23.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "QueueService.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Core\\Services\\Queue\\QueueService.cs",
+              "RelativeDocumentMoniker": "BCL.Core\\Services\\Queue\\QueueService.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Core\\Services\\Queue\\QueueService.cs",
+              "RelativeToolTip": "BCL.Core\\Services\\Queue\\QueueService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAlwEQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T19:15:38.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DiscordConfig.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\DiscordConfig.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\DiscordConfig.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\DiscordConfig.cs",
+              "RelativeToolTip": "BCL.Discord\\DiscordConfig.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:35:16.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DiscordEngine.Startup.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Bot\\DiscordEngine.Startup.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\Bot\\DiscordEngine.Startup.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Bot\\DiscordEngine.Startup.cs",
+              "RelativeToolTip": "BCL.Discord\\Bot\\DiscordEngine.Startup.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:34:44.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminCommands.Dev.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Commands\\SlashCommands\\Admin\\AdminCommands.Dev.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\Commands\\SlashCommands\\Admin\\AdminCommands.Dev.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Commands\\SlashCommands\\Admin\\AdminCommands.Dev.cs",
+              "RelativeToolTip": "BCL.Discord\\Commands\\SlashCommands\\Admin\\AdminCommands.Dev.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAArwM8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:32:55.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminCommands.Utilities.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Commands\\SlashCommands\\Admin\\AdminCommands.Utilities.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\Commands\\SlashCommands\\Admin\\AdminCommands.Utilities.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Commands\\SlashCommands\\Admin\\AdminCommands.Utilities.cs",
+              "RelativeToolTip": "BCL.Discord\\Commands\\SlashCommands\\Admin\\AdminCommands.Utilities.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAApwD4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:32:44.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminCommands.Staff.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Commands\\SlashCommands\\Admin\\AdminCommands.Staff.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\Commands\\SlashCommands\\Admin\\AdminCommands.Staff.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Commands\\SlashCommands\\Admin\\AdminCommands.Staff.cs",
+              "RelativeToolTip": "BCL.Discord\\Commands\\SlashCommands\\Admin\\AdminCommands.Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANAAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:32:09.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DiscordEngine.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Bot\\DiscordEngine.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\Bot\\DiscordEngine.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Bot\\DiscordEngine.cs",
+              "RelativeToolTip": "BCL.Discord\\Bot\\DiscordEngine.cs",
+              "ViewState": "AgIAADEBAAAAAAAAAAAUwEQBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:30:47.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QueueCommands.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Commands\\SlashCommands\\QueueCommands.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\Commands\\SlashCommands\\QueueCommands.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Commands\\SlashCommands\\QueueCommands.cs",
+              "RelativeToolTip": "BCL.Discord\\Commands\\SlashCommands\\QueueCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:17:55.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QueueTrackerButtons.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Commands\\ButtonCommands\\QueueTrackerButtons.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\Commands\\ButtonCommands\\QueueTrackerButtons.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Commands\\ButtonCommands\\QueueTrackerButtons.cs",
+              "RelativeToolTip": "BCL.Discord\\Commands\\ButtonCommands\\QueueTrackerButtons.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAG0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:17:14.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QueueTracker.Buttons.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Components\\Dashboards\\QueueTracker.Buttons.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\Components\\Dashboards\\QueueTracker.Buttons.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Components\\Dashboards\\QueueTracker.Buttons.cs",
+              "RelativeToolTip": "BCL.Discord\\Components\\Dashboards\\QueueTracker.Buttons.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:17:09.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AnsiUtils.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Utils\\AnsiUtils.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\Utils\\AnsiUtils.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Utils\\AnsiUtils.cs",
+              "RelativeToolTip": "BCL.Discord\\Utils\\AnsiUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:11:39.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QueueTracker.RestrictionsField.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Components\\Dashboards\\QueueTracker.RestrictionsField.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\Components\\Dashboards\\QueueTracker.RestrictionsField.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Components\\Dashboards\\QueueTracker.RestrictionsField.cs",
+              "RelativeToolTip": "BCL.Discord\\Components\\Dashboards\\QueueTracker.RestrictionsField.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:09:49.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdminCommands.Membership.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Commands\\SlashCommands\\Admin\\AdminCommands.Membership.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\Commands\\SlashCommands\\Admin\\AdminCommands.Membership.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Commands\\SlashCommands\\Admin\\AdminCommands.Membership.cs",
+              "RelativeToolTip": "BCL.Discord\\Commands\\SlashCommands\\Admin\\AdminCommands.Membership.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAMwEcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:02:47.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserModals.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Commands\\ModalCommands\\UserModals.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\Commands\\ModalCommands\\UserModals.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Commands\\ModalCommands\\UserModals.cs",
+              "RelativeToolTip": "BCL.Discord\\Commands\\ModalCommands\\UserModals.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAADwv68AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:02:19.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminButtons.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Commands\\ButtonCommands\\AdminButtons.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\Commands\\ButtonCommands\\AdminButtons.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Commands\\ButtonCommands\\AdminButtons.cs",
+              "RelativeToolTip": "BCL.Discord\\Commands\\ButtonCommands\\AdminButtons.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAADwv0AAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:02:07.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QueueTracker.LeaguesField.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Components\\Dashboards\\QueueTracker.LeaguesField.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\Components\\Dashboards\\QueueTracker.LeaguesField.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Components\\Dashboards\\QueueTracker.LeaguesField.cs",
+              "RelativeToolTip": "BCL.Discord\\Components\\Dashboards\\QueueTracker.LeaguesField.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAALYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T22:55:37.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "QueueTracker.QueueTrackerMessage.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Components\\Dashboards\\QueueTracker.QueueTrackerMessage.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\Components\\Dashboards\\QueueTracker.QueueTrackerMessage.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Components\\Dashboards\\QueueTracker.QueueTrackerMessage.cs",
+              "RelativeToolTip": "BCL.Discord\\Components\\Dashboards\\QueueTracker.QueueTrackerMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T21:09:09.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QueueTracker.MembersField.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Components\\Dashboards\\QueueTracker.MembersField.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\Components\\Dashboards\\QueueTracker.MembersField.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Components\\Dashboards\\QueueTracker.MembersField.cs",
+              "RelativeToolTip": "BCL.Discord\\Components\\Dashboards\\QueueTracker.MembersField.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAHMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:28:35.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "QueueTracker.MatchesField.cs",
+              "DocumentMoniker": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Components\\Dashboards\\QueueTracker.MatchesField.cs",
+              "RelativeDocumentMoniker": "BCL.Discord\\Components\\Dashboards\\QueueTracker.MatchesField.cs",
+              "ToolTip": "D:\\.xeyth\\BCL\\src\\BCL\\BCL.Discord\\Components\\Dashboards\\QueueTracker.MatchesField.cs",
+              "RelativeToolTip": "BCL.Discord\\Components\\Dashboards\\QueueTracker.MatchesField.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAApwBsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:28:26.313Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "Name": "Bakko",
+    "Class": "Melee",
+    "Role": "Dps"
+  },
+  {
+    "Name": "Croak",
+    "Class": "Melee",
+    "Role": "Dps",
+    "Restrictions": "Green Q"
+  },
+  {
+    "Name": "Freya",
+    "Class": "Melee",
+    "Role": "Dps",
+    "Restrictions": "Red M2"
+  },
+  {
+    "Name": "Jamila",
+    "Class": "Melee",
+    "Role": "Dps"
+  },
+  {
+    "Name": "Raigon",
+    "Class": "Melee",
+    "Role": "Dps"
+  },
+  {
+    "Name": "Rook",
+    "Class": "Melee",
+    "Role": "Dps",
+    "Restrictions": "Blue Space, Teal M2"
+  },
+  {
+    "Name": "Ruh Kaan",
+    "Class": "Melee",
+    "Role": "Dps"
+  },
+  {
+    "Name": "Shifu",
+    "Class": "Melee",
+    "Role": "Dps"
+  },
+  {
+    "Name": "Thorn",
+    "Class": "Melee",
+    "Role": "Dps"
+  },
+  {
+    "Name": "Alysia",
+    "Class": "Ranged",
+    "Role": "Dps",
+    "Restrictions": "Teal E with Red Q"
+  },
+  {
+    "Name": "Ashka",
+    "Class": "Ranged",
+    "Role": "Dps"
+  },
+  {
+    "Name": "Destiny",
+    "Class": "Ranged",
+    "Role": "Dps"
+  },
+  {
+    "Name": "Ezmo",
+    "Class": "Ranged",
+    "Role": "Dps"
+  },
+  {
+    "Name": "Iva",
+    "Class": "Ranged",
+    "Role": "Dps",
+    "Restrictions": "Blue E"
+  },
+  {
+    "Name": "Jade",
+    "Class": "Ranged",
+    "Role": "Dps",
+    "Restrictions": "Blue Space"
+  },
+  {
+    "Name": "Jumong",
+    "Class": "Ranged",
+    "Role": "Dps"
+  },
+  {
+    "Name": "Shen Rao",
+    "Class": "Ranged",
+    "Role": "Dps",
+    "Restrictions": "Blue Q, Purple M2, Yellow E, Green E" 
+  },
+  {
+    "Name": "Taya",
+    "Class": "Ranged",
+    "Role": "Dps",
+    "Restrictions": "Green Space"
+  },
+  {
+    "Name": "Varesh",
+    "Class": "Ranged",
+    "Role": "Dps",
+    "Restrictions": "Blue E"
+  },
+  {
+    "Name": "Blossom",
+    "Class": "Ranged",
+    "Role": "Healer"
+  },
+  {
+    "Name": "Lucie",
+    "Class": "Ranged",
+    "Role": "Healer"
+  },
+  {
+    "Name": "Oldur",
+    "Class": "Ranged",
+    "Role": "Healer"
+  },
+  {
+    "Name": "Pearl",
+    "Class": "Ranged",
+    "Role": "Healer",
+    "Restrictions": "Red M1"
+  },
+  {
+    "Name": "Pestilus",
+    "Class": "Ranged",
+    "Role": "Healer"
+  },
+  {
+    "Name": "Poloma",
+    "Class": "Ranged",
+    "Role": "Healer"
+  },
+  {
+    "Name": "Sirius",
+    "Class": "Melee",
+    "Role": "Healer"
+  },
+  {
+    "Name": "Ulric",
+    "Class": "Melee",
+    "Role": "Healer"
+  },
+  {
+    "Name": "Zander",
+    "Class": "Ranged",
+    "Role": "Healer"
+  }
+]

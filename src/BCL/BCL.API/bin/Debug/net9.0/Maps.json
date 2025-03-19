@@ -1,0 +1,47 @@
+[
+  {
+    "Name": "Mount Araz",
+    "Day": 10,
+    "Night": 100
+  },
+  {
+    "Name": "Orman Temple",
+    "Day": 1,
+    "Night": 10 
+  },
+  {
+    "Name": "Sky Ring",
+    "Day": 1,
+    "Night": 15
+  },
+  {
+    "Name": "Blackstone Arena",
+    "Day": 100,
+    "Night": 100
+  },
+  {
+    "Name": "Dragon Garden",
+    "Day": 100,
+    "Night": 100
+  },
+  {
+    "Name": "Daharin Battlegrounds",
+    "Day": 50,
+    "Night": 50
+  },
+  {
+    "Name": "Misty Woods",
+    "Day": 1,
+    "Night": 1
+  },
+  {
+    "Name": "Meriko Summit",
+    "Day": 50,
+    "Night": 50
+  },
+  {
+    "Name": "The Great Market",
+    "Day": 100,
+    "Night": 100
+  }
+]

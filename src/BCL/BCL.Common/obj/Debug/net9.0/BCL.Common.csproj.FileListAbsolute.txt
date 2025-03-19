@@ -1,0 +1,16 @@
+D:\.xeyth\BCL\src\BCL\BCL.Common\bin\Debug\net9.0\BCL.Common.deps.json
+D:\.xeyth\BCL\src\BCL\BCL.Common\bin\Debug\net9.0\BCL.Common.dll
+D:\.xeyth\BCL\src\BCL\BCL.Common\bin\Debug\net9.0\BCL.Common.pdb
+D:\.xeyth\BCL\src\BCL\BCL.Common\bin\Debug\net9.0\BCL.Domain.dll
+D:\.xeyth\BCL\src\BCL\BCL.Common\bin\Debug\net9.0\BCL.Domain.pdb
+D:\.xeyth\BCL\src\BCL\BCL.Common\obj\Debug\net9.0\BCL.Common.csproj.AssemblyReference.cache
+D:\.xeyth\BCL\src\BCL\BCL.Common\obj\Debug\net9.0\BCL.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\.xeyth\BCL\src\BCL\BCL.Common\obj\Debug\net9.0\BCL.Common.AssemblyInfoInputs.cache
+D:\.xeyth\BCL\src\BCL\BCL.Common\obj\Debug\net9.0\BCL.Common.AssemblyInfo.cs
+D:\.xeyth\BCL\src\BCL\BCL.Common\obj\Debug\net9.0\BCL.Common.csproj.CoreCompileInputs.cache
+D:\.xeyth\BCL\src\BCL\BCL.Common\obj\Debug\net9.0\BCL.Common.sourcelink.json
+D:\.xeyth\BCL\src\BCL\BCL.Common\obj\Debug\net9.0\BCL.Common.csproj.Up2Date
+D:\.xeyth\BCL\src\BCL\BCL.Common\obj\Debug\net9.0\BCL.Common.dll
+D:\.xeyth\BCL\src\BCL\BCL.Common\obj\Debug\net9.0\refint\BCL.Common.dll
+D:\.xeyth\BCL\src\BCL\BCL.Common\obj\Debug\net9.0\BCL.Common.pdb
+D:\.xeyth\BCL\src\BCL\BCL.Common\obj\Debug\net9.0\ref\BCL.Common.dll

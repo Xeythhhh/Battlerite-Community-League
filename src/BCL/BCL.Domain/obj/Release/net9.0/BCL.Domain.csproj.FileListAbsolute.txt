@@ -1,0 +1,13 @@
+D:\.xeyth\BCL\src\BCL\BCL.Domain\bin\Release\net9.0\BCL.Domain.deps.json
+D:\.xeyth\BCL\src\BCL\BCL.Domain\bin\Release\net9.0\BCL.Domain.dll
+D:\.xeyth\BCL\src\BCL\BCL.Domain\bin\Release\net9.0\BCL.Domain.pdb
+D:\.xeyth\BCL\src\BCL\BCL.Domain\obj\Release\net9.0\BCL.Domain.csproj.AssemblyReference.cache
+D:\.xeyth\BCL\src\BCL\BCL.Domain\obj\Release\net9.0\BCL.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.xeyth\BCL\src\BCL\BCL.Domain\obj\Release\net9.0\BCL.Domain.AssemblyInfoInputs.cache
+D:\.xeyth\BCL\src\BCL\BCL.Domain\obj\Release\net9.0\BCL.Domain.AssemblyInfo.cs
+D:\.xeyth\BCL\src\BCL\BCL.Domain\obj\Release\net9.0\BCL.Domain.csproj.CoreCompileInputs.cache
+D:\.xeyth\BCL\src\BCL\BCL.Domain\obj\Release\net9.0\BCL.Domain.sourcelink.json
+D:\.xeyth\BCL\src\BCL\BCL.Domain\obj\Release\net9.0\BCL.Domain.dll
+D:\.xeyth\BCL\src\BCL\BCL.Domain\obj\Release\net9.0\refint\BCL.Domain.dll
+D:\.xeyth\BCL\src\BCL\BCL.Domain\obj\Release\net9.0\BCL.Domain.pdb
+D:\.xeyth\BCL\src\BCL\BCL.Domain\obj\Release\net9.0\ref\BCL.Domain.dll
